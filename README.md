@@ -15,7 +15,7 @@ Feel free to see my projects if you like something and or want to talk to me, yo
 
 🎓 &nbsp; I'm studying computer science
 
-📚 &nbsp; I am learning: Kotlin, Unitary tests, Git.
+📚 &nbsp; I am learning: Kotlin, Unitary tests, Git, Web.
 
 
 <h3>Top languages</h3>
